@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\bin\Debug\net7.0\For Loop ve Break Continue.exe
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\bin\Debug\net7.0\For Loop ve Break Continue.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\bin\Debug\net7.0\For Loop ve Break Continue.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\bin\Debug\net7.0\For Loop ve Break Continue.dll
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\bin\Debug\net7.0\For Loop ve Break Continue.pdb
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\obj\Debug\net7.0\For Loop ve Break Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\obj\Debug\net7.0\For Loop ve Break Continue.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\obj\Debug\net7.0\For Loop ve Break Continue.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\obj\Debug\net7.0\For Loop ve Break Continue.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\obj\Debug\net7.0\For Loop ve Break Continue.dll
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\obj\Debug\net7.0\refint\For Loop ve Break Continue.dll
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\obj\Debug\net7.0\For Loop ve Break Continue.pdb
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\obj\Debug\net7.0\For Loop ve Break Continue.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\Patika Eğitim ve Örnek Code\For Loop ve Break Continue\obj\Debug\net7.0\ref\For Loop ve Break Continue.dll
