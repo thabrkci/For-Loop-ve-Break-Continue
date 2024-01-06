@@ -1,4 +1,4 @@
-Herkese selam, For loop ve Break Continue kullanımıda dair çok küçük bir örnekle bilgimizi tazelemiş olalım.
+Herkese selam, For loop ve Break Continue kullanımına dair çok küçük bir örnekle bilgimizi tazelemiş olalım.
 Yorum satırlarında gerekli açıklamaları bulabilirsiniz.
 Değerli vaktinizi harcadığınız için teşekkür ederim.
 ------------------------------------------------------
